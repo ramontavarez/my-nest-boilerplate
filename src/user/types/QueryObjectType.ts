@@ -1,0 +1,1 @@
+export type QueryObjectType = { id: number } | { email: string }
